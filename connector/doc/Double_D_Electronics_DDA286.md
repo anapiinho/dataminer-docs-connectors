@@ -12,15 +12,19 @@ This connector monitors the activity of **DDA286** Networkable Switching Control
 
 ### Version Info
 
-| Range | Description | DCF Integration | Cassandra Compliant |
-|----------------------|-----------------|---------------------|-------------------------|
-| 2.0.0.x [SLC Main]   | Initial Version | No                  | False                   |
-
+| Range                | Description                                     | DCF Integration     | Cassandra Compliant |
+|----------------------|------------------------------------------------ |---------------------|-------------------------|
+| 2.0.0.x              | Initial Version                                 | No                  | False                   |
+| 2.0.1.x              |                                                 | No                  | False                   |
+| 2.0.2.x [SLC Main]   | Fixed discreets issue on Switch lock parameters | No                  | False                   |
+                        
 ### Product Info
 
 | Range | Supported Firmware Version |
 |------------------|-----------------------------|
 | 2.0.0.x          | Unknown                     |
+| 2.0.1.x          | Unknown                     |
+| 2.0.2.x          | Unknown                     |
 
 ## Installation and configuration
 
